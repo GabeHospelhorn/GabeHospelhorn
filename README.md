@@ -35,4 +35,4 @@ Experience across healthcare, operations, and regulated environments, with a foc
 ### Contact
 
 Open to roles at the intersection of AI, operations, and governance.
-inquires@gabehospelhorn.com
+inquiries@gabehospelhorn.com

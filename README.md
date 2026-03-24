@@ -1,16 +1,38 @@
-## Hi there 👋
+## Decision Systems, Alignment, and Governance in Frontier AI
 
-<!--
-**GabeHospelhorn/GabeHospelhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on improving how complex systems make decisions under uncertainty—particularly at the intersection of research, product, and safety.
 
-Here are some ideas to get you started:
+My work centers on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* decision clarity across domains
+* risk visibility in high-capability systems
+* alignment between capability, usability, and responsible deployment
+
+---
+
+### Selected Work
+
+* **AI Decision Systems**
+  Short, practical notes on how decision-making and alignment operate in frontier AI organizations
+  → https://github.com/GabeHospelhorn/ai-decision-systems
+
+---
+
+### Current Focus
+
+* Translating ambiguity into structured, actionable decisions
+* Reducing coordination friction across technical and non-technical teams
+* Designing lightweight governance structures that scale with capability
+
+---
+
+### Background
+
+Experience across healthcare, operations, and regulated environments, with a focus on building systems that remain coherent under pressure and scale.
+
+---
+
+### Contact
+
+Open to roles at the intersection of AI, operations, and governance.
+inquires@gabehospelhorn.com
